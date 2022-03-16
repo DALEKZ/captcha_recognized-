@@ -5,7 +5,7 @@ import preprocessing
 import captcha_predict
 shot_path = 'shot.png'
 username = '15905305'
-password = 'zsh951106'
+password = '123456'
 
 login_url = 'http://124.160.107.92:9090/Index.aspx'
 
